@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-
-
 function generate_did() {
   local canister=$1
   canister_root="src/$canister"
